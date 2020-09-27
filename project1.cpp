@@ -1,5 +1,4 @@
 //Abdurrehman Zulfiqar
-//NetID: AXZ190015
 #include <iostream>
 #include <fstream>
 #include <string>
