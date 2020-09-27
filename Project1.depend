@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600222217 source:c:\mingw\x86_64-w64-mingw32\projects\project1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+
