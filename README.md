@@ -7,6 +7,7 @@
   Pen status (1 for pen up, 2 for pen down), direction (N, S, E, W), number of moves, bold status (bold or regular brush strokes), and P to print out the image.
   
   Example:
+
   2, N, 11, B
   
   2, W, 1
